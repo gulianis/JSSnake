@@ -1,0 +1,22 @@
+#border {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 10px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#score {
+  text-align: center;
+  font-size: 20px;
+}
+
+#bottom {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
